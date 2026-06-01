@@ -1,16 +1,16 @@
-## Hi there 👋
+# Abdullah Abid | SEO Specialist & Digital Marketing Expert
 
-<!--
-**abdullahabid0/abdullahabid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my official GitHub profile. I am a professional digital marketer and web developer specializing in structured on-page SEO, technical search optimizations, and conversion-focused Shopify and WordPress storefronts.
 
-Here are some ideas to get you started:
+### Official Portfolio
+You can view my complete case studies, active client projects, and live performance metrics directly on the official Abdullah Abid Portfolio website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://abdullahabid0.github.io/
+
+### Core Expertise
+- Search Engine Optimization (On-Page, Technical SEO, Keyword Analysis)
+- Digital Marketing & Brand Growth Strategies (Navttac Certified)
+- Shopify & WordPress Web Development
+- E-commerce Operations & Conversion Rate Optimization
+
+Feel free to explore my repositories or get in touch for search optimization and web development projects.
